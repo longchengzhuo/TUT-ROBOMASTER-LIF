@@ -1,6 +1,6 @@
 # 天津理工大学 RM vision
 
-![image](TUT-ROBOMASTER-LIF/docs/0.png)
+![image](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/docs/0.png)
 
 **RMer    NEVER    GIVE    UP!!!**
 
