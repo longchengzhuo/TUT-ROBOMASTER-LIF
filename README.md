@@ -1,10 +1,14 @@
 # 天津理工大学 RM vision
+## ★★★**RMer    NEVER    GIVE    UP!!!★★★**
 
-![image](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/docs/0.png)
+   <img src="https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/docs/0.png" width="270px">
 
-**RMer    NEVER    GIVE    UP!!!**
+献给我们的白色步兵
 
 ## 更新记录
-V0.1 Beta 完成自瞄推理部分及粒子滤波器. 2022.8.2
+V0.1 Beta 完成纯传统视觉自瞄部分及卡尔曼滤波器. 2022.8.2
+
 六月底更新半传统半神经网络版本
+
 年底前更新端到端神经网络版本
+
