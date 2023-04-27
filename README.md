@@ -1,9 +1,11 @@
-# -ROBOMATSER_LIF-2023-
+# 天津理工大学 RM vision
 
+![image](TUT-ROBOMASTER-LIF/docs/0.png)
 
+**RMer    NEVER    GIVE    UP!!!**
 
-./trtexec --onnx=/home/rcclub/MVSDK/demo/infer/2Binary_classification.onnx --saveEngine=/home/rcclub/MVSDK/demo/infer/2Binary_classification.trt --minShapes=inputs:1x1x32x32 --optShapes=inputs:1x1x32x32 --maxShapes=inputs:10x1x32x32 --fp16 
+## 更新记录
+V0.1 Beta 完成自瞄推理部分及粒子滤波器. 2022.8.2
 
-
-
-./trtexec --onnx=/home/rcclub/MVSDK/demo/infer/11Binary_classification.onnx --saveEngine=/home/rcclub/MVSDK/demo/infer/11Binary_classification.trt --minShapes=inputs:1x1x32x32 --optShapes=inputs:1x1x32x32 --maxShapes=inputs:10x1x32x32 --fp16
+六月底更新半传统半神经网络版本
+年底前更新端到端神经网络版本
