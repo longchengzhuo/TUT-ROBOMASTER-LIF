@@ -39,7 +39,7 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
 
 ## Packages
 
-* [demo for verification](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/demo%20for%20verification%20demo%20for%20verification)
+* [demo for verification](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/demo%20for%20verification)
     > 用于调参以及验证onnx, trt推理的小工具
     
     > 推理**支持动态batch_size!!**
