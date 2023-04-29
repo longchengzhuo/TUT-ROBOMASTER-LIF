@@ -49,6 +49,9 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
 
 ## Packages
 
+* [train_and_transONNXtoTRT](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/train_and_transONNXtoTRT.ipynb)
+    > 使用colab进行训练
+
 * [demo for verification](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/demo%20for%20verification)
     > 用于调参以及验证onnx, trt推理的小工具
     
