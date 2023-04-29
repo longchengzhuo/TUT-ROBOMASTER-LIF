@@ -55,7 +55,8 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
     
     > 推理**支持动态batch_size!!**
     
-* [V0.1 BETA 2022.8.2](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.1%20BETA%202022.8.2).
+* [V0.1 BETA 2022.8.2](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.1%20BETA%202022.8.2) 
+这是一个使用纯传统视觉，**面向过程编程，对新手友好**，极适合教学使用的python proj..
     > 纯传统视觉自瞄部分
     
     > 卡尔曼滤波器
