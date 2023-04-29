@@ -16,7 +16,7 @@
 
 ### License
 
-The source code is released under a [MIT license](TUT-ROBOMASTER-LIF/LICENSE).
+The source code is released under a [MIT license](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/LICENSE).
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Author: Long chengzhuo**
