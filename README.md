@@ -1,9 +1,9 @@
 # 天津理工大学 RM vision
-## ★★★**RMer    NEVER    GIVE    UP★★★**
 
-   <img src="https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/docs/0.png" width="230px">
+<img src="https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/docs/0.png" width="230px">
 
-献给我们的白色步兵
+**★★★RMer    NEVER    GIVE    UP★★★**
+
 ## 更新记录
 
 * V0.1 BETA 2022.8.2
