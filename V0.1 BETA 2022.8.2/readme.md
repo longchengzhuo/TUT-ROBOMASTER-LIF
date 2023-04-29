@@ -1,3 +1,8 @@
+# V0.1 BETA 2022.8.2
+
+* [参数调整](#参数调整)
+* [追踪器](#追踪器)
+* [卡尔曼预测](#卡尔曼预测)
 <img src="https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/docs/real_test.gif" width="600px">
 
 在进入到自瞄线程时，摄像机拉流时分辨率为（1280，1024），未缩放
@@ -8,7 +13,10 @@
 
 
 
-# 参数调整
+
+## 参数调整
+
+
 
 不同相机畸变情况不一样，hsv滤过之后灯光散光效果也不一样，需要根据自己的相机调整，装甲板长宽比和hsv红蓝系数
 
@@ -28,7 +36,10 @@ Para_visualization(CALC, X)
 
 
 
-# 追踪器
+
+## 追踪器
+
+
 
 
 
@@ -82,7 +93,10 @@ elif realnum_count != 0 and (
 
 
 
-# 卡尔曼预测
+
+## 卡尔曼预测
+
+
 
 
 
