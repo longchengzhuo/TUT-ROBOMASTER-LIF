@@ -8,8 +8,6 @@
 
 ## Overview
 
-这是一个使用纯传统视觉，**面向过程编程，对新手友好**，极适合教学使用的python proj.
-
 **Keywords:** Robomaster, auto-aim, opencv, python
 
 
