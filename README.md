@@ -29,9 +29,19 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
 
 ## Dependencies
 
+- python 3.6.9
+
+- onnxruntime 1.9.0
+
+- CUDA 10.2.3
+
 - numpy 1.19.5
 
-- opencv-contrib-python 3.3.0.10
+- opencv 4.1.1
+
+- TensorRT 8.0.1.6
+
+- cuDNN 8.2.1.32
 
 - matplotlib 3.3.0
 
