@@ -39,7 +39,7 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
 
 ## Update record
 
-* V0.1 BETA 2022.8.2 
+* [V0.1 BETA 2022.8.2](V0.1 BETA 2022.8.2)
     > 纯传统视觉自瞄部分
     
     > 卡尔曼滤波器
