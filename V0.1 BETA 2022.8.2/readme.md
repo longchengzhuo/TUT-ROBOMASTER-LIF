@@ -20,7 +20,7 @@
 
 不同相机畸变情况不一样，hsv滤过之后灯光散光效果也不一样，需要根据自己的相机调整，装甲板长宽比和hsv红蓝系数
 
-GainHSV提供了一个可视化调参界面，可以使用一个mask，或者两个...
+[GainHSV](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/demo%20for%20verification/GainHSV.py)提供了一个可视化调参界面，可以使用一个mask，或者两个...
 
 <img src="https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/docs/hsv.gif" width="600px">
 
