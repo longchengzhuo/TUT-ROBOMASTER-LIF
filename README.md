@@ -16,7 +16,7 @@
 
 ### License
 
-The source code is released under a [MIT license](rm_auto_aim/LICENSE).
+The source code is released under a [MIT license](TUT-ROBOMASTER-LIF/LICENSE).
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Author: Long chengzhuo**
@@ -39,7 +39,7 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
 
 ## Update record
 
-* [V0.1 BETA 2022.8.2](V0.1 BETA 2022.8.2)
+* [V0.1 BETA 2022.8.2](TUT-ROBOMASTER-LIF/V0.1 BETA 2022.8.2).
     > 纯传统视觉自瞄部分
     
     > 卡尔曼滤波器
