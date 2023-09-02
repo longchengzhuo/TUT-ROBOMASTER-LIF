@@ -61,7 +61,7 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
     
     > 卡尔曼滤波器
 
-* [V0.5 BETA 2023.9.2](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.5%20BETA%202023.4.19) 离线视频测试版
+* [V0.5 BETA 2023.9.2](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.5%20BETA%202023.9.2) 离线视频测试版
     > 优化代码结构，发挥py优势，更加简洁
     
     > 缩小输入图像尺寸，提升帧率（nx上目前40fps）
@@ -73,7 +73,7 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
     > tensorrt加速残差网络数字识别推理
 
 ### Outlook for recent updates
-* [V0.51 BETA 2023.9.？（待定）](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.51%20BETA%202023.6.1) 实时读取正式版
+* [V0.51 BETA 2023.9.？（待定）](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.51%20BETA%202023.9.%EF%BC%9F%EF%BC%88%E5%BE%85%E5%AE%9A%EF%BC%89) 实时读取正式版
     > 找到更合适的gamma和增益参数，提升神经网络推理质量
     
     > 优化卡尔曼与电控的衔接
