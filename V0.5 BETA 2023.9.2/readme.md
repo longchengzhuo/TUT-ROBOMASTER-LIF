@@ -13,3 +13,6 @@ config.yaml 参数文件。（90%的调参可以在这里独立进行，避免�
 
 
 拓展卡尔曼滤波还未调试完善，有任何问题请直接联系
+
+# EKF
+![image](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/assets/89187533/e06e4974-b366-4276-bd9a-bd1d37e6e13c)
