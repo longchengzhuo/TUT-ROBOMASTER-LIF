@@ -62,6 +62,8 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
     > 卡尔曼滤波器
 
 * [V0.5 BETA 2023.9.2](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.5%20BETA%202023.9.2) 离线视频测试版
+    > 使用拓展卡尔曼滤波
+    
     > 优化代码结构，发挥py优势，更加简洁
     
     > 缩小输入图像尺寸，提升帧率（nx上目前40fps）
