@@ -1,10 +1,9 @@
 # 天津理工大学ROBOMASTER_LIF战队视觉proj.
 
-<img src="https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/docs/0.png" width="230px">
 
 **★★★RMer    NEVER    GIVE    UP★★★**
 
-
+This project aims to construct a complete automatic aiming system for RoboMaster events using pure Python and addresses the fundamental issue of "reinventing the wheel" for newcomers in the team.（including serial communication with the electronic control system）
 
 ## Overview
 
@@ -48,39 +47,39 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
 ## Packages
 
 * [train_and_transONNXtoTRT](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/train_and_transONNXtoTRT.ipynb)
-    > 使用colab进行训练
+    > Training with Colab
 
 * [demo for verification](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/demo%20for%20verification)
-    > 用于调参以及验证onnx, trt推理的小工具
+    > A small tool for tuning and verifying ONNX, TRT inference
     
-    > 推理**支持动态batch_size!!**
+    > Inference **supports dynamic batch_size!!**
     
 * [V0.1 BETA 2022.8.2](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.1%20BETA%202022.8.2) 
-这是一个使用纯传统视觉，**面向过程编程，对新手友好**，极适合教学使用的python proj..
-    > 纯传统视觉自瞄部分
+This is a Python project that uses pure traditional vision,**is procedural, beginner-friendly**, and highly suitable for teaching purposes.
+    > Pure Traditional Vision Auto-Aim Part
     
-    > 卡尔曼滤波器
+    > Kalman Filter
 
-* [V0.5 BETA 2023.9.2](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.5%20BETA%202023.9.2) 离线视频测试版
-    > 使用拓展卡尔曼滤波
+* [V0.5 BETA 2023.9.2](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.5%20BETA%202023.9.2) Offline Video Test Version
+    > Using Extended Kalman Filter
     
-    > 优化代码结构，发挥py优势，更加简洁
+    > Optimized code structure, leveraging Python's advantages for greater simplicity
     
-    > 缩小输入图像尺寸，提升帧率（nx上目前40fps）
+    > Reducing input image size to increase frame rate (currently 40fps on NX)
 
-    > 将程序解耦为图像处理层和坐标滤波串口发送层，两个独立进程提升cpu效率，提高帧率
+    > Decoupling the program into an image processing layer and a coordinate filtering serial port transmission layer, two independent processes to improve CPU efficiency and frame rate
     
-    > 成立独立的调参空间，直接在yaml调参，更方便
+    > Establishing an independent tuning space, tuning directly in YAML for convenience
     
-    > tensorrt加速残差网络数字识别推理
+    > TensorRT accelerated residual network digital recognition inference
 
 ### Outlook for recent updates
-* [V0.51 BETA 2023.9.？（待定）](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.51%20BETA%202023.9.%EF%BC%9F%EF%BC%88%E5%BE%85%E5%AE%9A%EF%BC%89) 实时读取正式版
-    > 找到更合适的gamma和增益参数，提升神经网络推理质量
+* [V0.51 BETA 2023.9.？（To be determined）](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.51%20BETA%202023.9.%EF%BC%9F%EF%BC%88%E5%BE%85%E5%AE%9A%EF%BC%89) Real-time reading official version
+    > Finding more suitable gamma and other parameters, improving neural network inference quality
     
-    > 优化卡尔曼与电控的衔接
+    > Optimizing the connection between Kalman and electronic control
 
-* 年底前更新端到端神经网络版本
+* Updating to an end-to-end neural network version by the end of the year (If I have time 😉)
 
 ## Bugs & Feature Requests
 
