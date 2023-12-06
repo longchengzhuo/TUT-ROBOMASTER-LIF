@@ -55,7 +55,7 @@ The proj. has been tested with **jetson nx** on Ubuntu 18.04.
     > Inference **supports dynamic batch_size!!**
     
 * [V0.1 BETA 2022.8.2](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/tree/main/V0.1%20BETA%202022.8.2) 
-This is a Python project that uses pure traditional vision,**is procedural, beginner-friendly**, and highly suitable for teaching purposes.
+The readme of this project contains **demonstration videos of the actual robot auto-aim system**. Open this project to view them.
     > Pure Traditional Vision Auto-Aim Part
     
     > Kalman Filter
