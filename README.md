@@ -2,7 +2,7 @@
 
 
 **★★★RMer    NEVER    GIVE    UP★★★**
-
+<img src="https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/docs/real_test.gif" width="600px">
 This project aims to construct a complete automatic aiming system for RoboMaster events using pure Python and addresses the fundamental issue of "reinventing the wheel" for newcomers in the team.（including serial communication with the electronic control system）
 
 ## Overview
