@@ -18,10 +18,8 @@ This project aims to construct a complete automatic aiming system for RoboMaster
 The source code is released under a [MIT license](https://github.com/longchengzhuo/TUT-ROBOMASTER-LIF/blob/main/LICENSE).
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**Author: Long chengzhuo**
-
-**Maintainer: Long chengzhuo**
-jacklongcn@vip.qq.com
+**Maintainer: Chengzhuo Long**
+chengzhuolong@outlook.com
 
 The proj. has been tested with **jetson nx** on Ubuntu 18.04.
 
